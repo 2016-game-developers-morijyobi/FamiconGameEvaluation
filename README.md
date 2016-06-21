@@ -1,0 +1,2 @@
+# FamiconGameEvaluation
+ファミコンゲームをやりつくして評価するプロジェクト
